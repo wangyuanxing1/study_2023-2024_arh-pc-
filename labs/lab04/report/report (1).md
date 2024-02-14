@@ -109,7 +109,7 @@ AL, CH, CL, DH, DL, BH, BL — 8-битные (половинки 16-битны�
 
 текстового редактора и ввожу следующий текст. (рис. 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/02.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/02.png))
 
 Рис. 4.2: Ввод данного текста в файл
 
@@ -119,7 +119,7 @@ AL, CH, CL, DH, DL, BH, BL — 8-битные (половинки 16-битны�
 
 nasm -f elf hello.asm «Hello World» и проверим, что файл создан. (рис. 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/03.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/03.png))
 
 Рис. 4.3: Компиляция текста с помощью команды
 
@@ -129,7 +129,7 @@ nasm -f elf hello.asm «Hello World» и проверим, что файл со�
 
 исходный файл hello.asm в obj.o и проверим, что файл создан. (рис. 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/04.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/04.png))
 
 Рис. 4.4: Компиляция файла с помощью команды
 
@@ -141,7 +141,7 @@ nasm -f elf hello.asm «Hello World» и проверим, что файл со�
 
 (рис. 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/05.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/05.png))
 
 Рис. 4.5: Получение исполняемой программы
 
@@ -149,7 +149,7 @@ nasm -f elf hello.asm «Hello World» и проверим, что файл со�
 
 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/06.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/06.png))
 
 Рис. 4.6: Создание исполняемого файла
 
@@ -159,7 +159,7 @@ nasm -f elf hello.asm «Hello World» и проверим, что файл со�
 
 Запустим созданный исполняемый файл с помощью команды ./hello. (рис. 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/07.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/07.png))
 
 Рис. 4.7: Запуск исполняемого файла с помощью команды
 
@@ -169,7 +169,7 @@ nasm -f elf hello.asm «Hello World» и проверим, что файл со�
 
 hello.asm с именем lab4.asm. (рис. 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/08.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/08.png))
 
 Рис. 4.8: Копирование файла
 
@@ -179,7 +179,7 @@ hello.asm с именем lab4.asm. (рис. 4.12)
 
 моими фамилией и именем. (рис. 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/09.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/09.png))
 
 Рис. 4.9: Изменение файла с заданными условиями
 
@@ -189,7 +189,7 @@ hello.asm с именем lab4.asm. (рис. 4.12)
 
 няемый файл. (рис. 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/10.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/10.png))
 
 Рис. 4.10: Изменение файла с заданными условиями
 
@@ -199,13 +199,13 @@ hello.asm с именем lab4.asm. (рис. 4.12)
 
 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/11.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/11.png))
 
 Рис. 4.11: Копирование файлов в каталог
 
 Загружаю файлы на Github. (рис. 4.12)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/12.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab04/report/image/12.png))
 
 Рис. 4.12: Загрузка файлов на Github
 
