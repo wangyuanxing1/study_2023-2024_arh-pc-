@@ -117,7 +117,7 @@ Markdown - легковесный язык разметки, созданный 
 
 нении лабораторной работы №2 и обновляю локальный репозиторий, скачав
 
-изменения из удаленного репозитория с помощью команды git pull.![]([study_2023-2024_arh-pc-/labs/lab03/report/image/01.png at master · wangyuanxing1/study_2023-2024_arh-pc- (github.com)](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/01.png)) (рис. 4.10).
+изменения из удаленного репозитория с помощью команды git pull.![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/01.png)) (рис. 4.10).
 
 **4.2 Создание отчетов в формате .pdf и .docx**
 
@@ -125,7 +125,7 @@ Markdown - легковесный язык разметки, созданный 
 
 вожу компиляцию шаблона с использованием Makefile:ввожу команду make и
 
-генерирую файлы report.pdf и report.docx. ![]([study_2023-2024_arh-pc-/labs/lab03/report/image/02.png at master · wangyuanxing1/study_2023-2024_arh-pc- (github.com)](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/02.png))(рис. 4.10)
+генерирую файлы report.pdf и report.docx. ![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/02.png))(рис. 4.10)
 
 Рис. 4.2: Создание файлов с помощью команды make
 
@@ -133,13 +133,13 @@ Markdown - легковесный язык разметки, созданный 
 
 (рис. 4.10).
 
-![]([study_2023-2024_arh-pc-/labs/lab03/report/image/03.png at master · wangyuanxing1/study_2023-2024_arh-pc- (github.com)](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/03.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/03.png))
 
 Рис. 4.3: Проверка создания отчетов
 
 Удалите полученный файлы с помощью команды make clean. (рис. 4.10).
 
-![]([study_2023-2024_arh-pc-/labs/lab03/report/image/04.png at master · wangyuanxing1/study_2023-2024_arh-pc- (github.com)](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/04.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/04.png))
 
 Рис. 4.4: Удаление файлов с помощью команды make clean
 
@@ -147,7 +147,7 @@ Markdown - легковесный язык разметки, созданный 
 
 (рис. 4.10).
 
-![]([study_2023-2024_arh-pc-/labs/lab03/report/image/05.png at master · wangyuanxing1/study_2023-2024_arh-pc- (github.com)](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/05.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab03/report/image/05.png)
 
 Рис. 4.5: Проверка удаления файлов
 
