@@ -282,13 +282,13 @@ exit является обязательным в конце любой прог
 
 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/02.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/02.png)
 
 Рис. 4.2: Создание каталога в Midnight Commander
 
 Пользуясь строкой ввода и командой touch создаю файл lab5-1.asm. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/03.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/03.png)
 
 Рис. 4.3: Создание файла lab5-1.asm
 
@@ -300,7 +300,7 @@ exit является обязательным в конце любой прог
 
 (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/04.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/04.png)
 
 Рис. 4.4: Редактирование текстового файла в mc
 
@@ -308,7 +308,7 @@ exit является обязательным в конце любой прог
 
 смотра и убеждаюсь, что файл содержит текст программы. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/05.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/05.png)
 
 Рис. 4.5: Проверка наличия программы в файле
 
@@ -318,7 +318,7 @@ exit является обязательным в конце любой прог
 
 ввожу свои ФИО. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/06.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/06.png)
 
 Рис. 4.6: Запуск исполняющего файла
 
@@ -332,7 +332,7 @@ exit является обязательным в конце любой прог
 
 помощью функциональной клавиши F5. (рис. 4.18)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/07.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/07.png)
 
 Рис. 4.7: Копирование файла in_out.asm
 
@@ -340,7 +340,7 @@ exit является обязательным в конце любой прог
 
 именем lab5-2.asm. (рис. 4.18)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/08.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/08.png)
 
 Рис. 4.8: Создание файла lab5-2.asm
 
@@ -348,25 +348,25 @@ exit является обязательным в конце любой прог
 
 из внешнего файла in_out.asm в соответствии с листингом 5.2. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/09.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/09.png)
 
 Рис. 4.9: Исправление текста программы
 
 Создаю исполняемый файл и проверяю его работу. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/10.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/10.png)
 
 Рис. 4.10: Запуск программы исполняемого файла
 
 Затем в файле lab5-2.asm заменяю подпрограмму sprintLF на sprint. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/11.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/11.png)
 
 Рис. 4.11: Изменения в коде программы
 
 Создаю исполняемый файл и проверяю его работу. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/06.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/06.png)
 
 Рис. 4.12: Запуск программы измененного файла
 
@@ -380,7 +380,7 @@ exit является обязательным в конце любой прог
 
 1. Создаю копию файла lab5-1.asm. (рис. 4.18)
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/12.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/12.png)
 
 Рис. 4.13: Создание копии файла
 
@@ -388,7 +388,7 @@ exit является обязательным в конце любой прог
 
 экран. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/13.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/13.png)
 
 Рис. 4.14: Внесение изменений в программу
 
@@ -450,7 +450,7 @@ int 80h
 
 строку ввожу свою фамилию. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/14.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/14.png)
 
 Рис. 4.15: Запуск исполняющего файла
 
@@ -458,7 +458,7 @@ int 80h
 
 3. Создаю копию файла lab5-2.asm. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/15.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/15.png)
 
 Рис. 4.16: Создание копии файла
 
@@ -466,7 +466,7 @@ int 80h
 
 файла in_out.asm так, чтобы она выводила введённую строку на экран. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/16.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/16.png)
 
 Рис. 4.17: Внесение изменений в программу
 
@@ -510,7 +510,7 @@ call quit
 
 4. Создаю исполняемый файл и проверяю его работу. (рис. 4.18).
 
-![]((https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/17.png))
+![](https://github.com/wangyuanxing1/study_2023-2024_arh-pc-/blob/master/labs/lab05/report/image/17.png)
 
 Рис. 4.18: Запуск исполняющего файла
 
